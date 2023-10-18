@@ -1,0 +1,22 @@
+
+.notification-card > div{
+    color:white;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.danger-card{
+    background-color: rgba(255,0,0,0.8);
+    border-color:red;
+}
+
+
+.warning-card{
+    background-color:orangered;
+    border-color:orangered;
+}
+
+.success-card{
+    background-color:green;
+    border-color:green;
+}
